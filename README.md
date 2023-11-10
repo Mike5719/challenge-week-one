@@ -1,4 +1,4 @@
-# <Week One Refactor Challenge>
+# Week One Refactor Challenge
 
 ## In this assignment we were asked to review the provided source code for a Marketing Agency and to ensure it adheres to accessibility standards. This would ensure the site is optimized for search engines.
 
